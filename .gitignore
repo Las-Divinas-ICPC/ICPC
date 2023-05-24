@@ -1,0 +1,14 @@
+# Compilados
+*.exe
+*.bin
+*.out
+
+# Subcarpetas de CPH
+.cph/
+
+# Tests
+in
+out
+
+# Basura de macOS
+.DS_Store
