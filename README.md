@@ -85,6 +85,18 @@
 - **K**: Keypad Repetitions ⭐️ (**Código fuente no disponible**)
 - **L**: Ladybug And The Bullet Train (**No resulto aún**)
 
+## ICPC Masters México 2023 (Upsolveado)
+- [**A**: Acrobatic Jumping](https://github.com/Las-Divinas-ICPC/ICPC/blob/main/MASTERS23/A.cpp)
+- **B**: BWS Baker Web Service (**No resulto aún**)
+- **C**: Counting Risk Factors (**No resulto aún**)
+- [**D**: Destroying Asteriods](https://github.com/Las-Divinas-ICPC/ICPC/blob/main/MASTERS23/D.cpp)
+- **E**: Elisa's Melodies (**No resulto aún**)
+- **F**: Funny Numbers (**No resulto aún**)
+- [**G**: Getting the Real Weight](https://github.com/Las-Divinas-ICPC/ICPC/blob/main/MASTERS23/G.cpp)
+- **H**: Harvesting Apples (**No resulto aún**)
+- **I**: Improving the Neighborhood (**No resulto aún**)
+- **J**: Jane's Party Salad (**No resulto aún**)
+
 > *⭐: Resuelto durante contest.
 
 <br><p align="center" id="footer"><i>&lt;/&gt; con ❤️  por Las Divinas</i></p>
